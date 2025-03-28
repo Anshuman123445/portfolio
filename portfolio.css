@@ -1,0 +1,59 @@
+
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #DEE2E6;
+}
+.resume-header {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 15px;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 30px;
+}
+h1 {
+    margin: 0;
+    color: #007bff;
+    font-size: 2.5em;
+    text-align: center;
+}
+h2 {
+    margin: 5px 0;
+    color: #555;
+    text-align: center;
+}
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 0.9em;
+ }
+.sections {
+    margin-top: 20px;
+}
+.section-title {
+    color: #007bff;
+  border-bottom: 1px solid #ddd;
+   padding-bottom: 5px;
+    margin-bottom: 10px;
+    background-color: #ADB5BD;
+}
+.fab-lab-module {
+    padding: 15px;
+    border-radius: 5px;
+}
